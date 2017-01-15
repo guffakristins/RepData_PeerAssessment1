@@ -2,7 +2,9 @@
 title: "Course project1"
 author: "Guðfinna Kristinsdóttir"
 date: "15 January 2017"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ## Loading and preprocessing the data
